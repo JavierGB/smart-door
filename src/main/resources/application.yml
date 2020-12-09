@@ -1,0 +1,7 @@
+clientId: "gmUGw_-KF0rIQHheMalCA"
+configUri: "https://live.iamid.io/.well-known/openid-configuration"
+jwk: "src/main/resources/secrets/private.jwk"
+redirectUri: "http://192.168.1.134:8081/smart/door/callback"
+iotDeviceUri: "http://192.168.1.100:80"
+server:
+  port: 8081
